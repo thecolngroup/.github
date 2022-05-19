@@ -1,8 +1,10 @@
-# The Coln Group
+# The Coln Group (TCG)
 
 We are a small (but mighty) product and technology consultancy that specialise in building pragmatic software for startups, scale-ups, and blue-chips.
 
-Clever things made with love in the UK.
+Clever things made with love in Blighty. 
+
+TCG is a limited company registered in the UK. 
 
 ## 🛠 Work
 
@@ -22,4 +24,8 @@ Clever things made with love in the UK.
 - Financial markets
 - Crypto and web3
 - Education and inclusion
+
+## ✉️ Contact
+
+Say hello at hello@thecolngroup.com
 
