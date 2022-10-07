@@ -11,6 +11,7 @@ TCG is a limited company registered in the UK.
 ### Present
 
 - Alphakit (https://github.com/thecolngroup/alphakit/) is a framework for building algorithmic trading systems in the Go language, with the goal to teach sound trading system design and help folks learn Go with a practical outcome.
+- Alphasim (https://github.com/thecolngroup/alphasim) is a minimalist backtester in python that mirrors the quant workflow.
 - Launching a data intelligence SaaS for the private equity community.
 
 ### Past
