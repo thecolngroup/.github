@@ -1,6 +1,6 @@
 # The Coln Group (TCG)
 
-We are a small (but mighty) product and technology consultancy that specialise in building pragmatic software for startups, scale-ups, and blue-chips.
+We are a small (but mighty) product and technology consultancy that specialise in design and build of pragmatic software and services for startups, scale-ups, and blue-chips.
 
 Clever things made with love in Blighty. 
 
@@ -26,7 +26,7 @@ TCG is a limited company registered in the UK.
 
 ## ❤️ Passions
 
-- Go!
+- Go, Python
 - Lean project delivery
 - Software testing 🤓
 - Financial markets
