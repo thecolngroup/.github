@@ -1,6 +1,6 @@
 # The Coln Group (TCG)
 
-We are a small (but mighty) product and technology consultancy that specialise in design and build of pragmatic software and services for startups, scale-ups, and blue-chips.
+We are a small (but mighty) digital product studio that specialise in the design and build of pragmatic software and services for startups, scale-ups, and blue-chips.
 
 Clever things made with love in Blighty. 
 
