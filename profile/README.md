@@ -2,8 +2,6 @@
 
 We are a small (but mighty) digital product studio that specialise in the design and build of pragmatic software and services for startups, scale-ups, and blue-chips.
 
-Clever things made with love in Blighty. 
-
 TCG is a limited company registered in the UK. 
 
 ## 🚀 Projects
@@ -29,7 +27,7 @@ TCG is a limited company registered in the UK.
 
 - Go, Python
 - Lean project delivery
-- Software testing 🤓
+- AI
 - Financial markets
 - Crypto and web3
 - Education and inclusion
