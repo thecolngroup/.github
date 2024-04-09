@@ -34,5 +34,5 @@ TCG is a limited company registered in the UK.
 
 ## ✉️ Contact
 
-Say hello at hello@thecolngroup.com
+Say hello at hello@colngroup.com
 
