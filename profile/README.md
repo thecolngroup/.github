@@ -8,14 +8,14 @@ TCG is a limited company registered in the UK.
 
 ### Present
 
-- Alphavec (https://github.com/thecolngroup/alphavec) is a replacement for Alphasim, a fast minimalist backtester in python that mirrors the quant workflow.
-- Alphaone (private) is our latest systematic trading strategy
+- Alphavec (<https://github.com/thecolngroup/alphavec>) is a replacement for Alphasim, a fast minimalist backtester in python that mirrors the quant workflow.
+- Alphaone (private) is our latest systematic trading strategy.
 
 ### Past
 
-- Alphakit (https://github.com/thecolngroup/alphakit) is a framework for building algorithmic trading systems in the Go language, with the goal to teach sound trading system design and help folks learn Go with a practical outcome.
-- Alphasim (https://github.com/thecolngroup/alphasim) is a minimalist backtester in python that mirrors the quant workflow.
-- Hello Folx (<https://hellofolx.com>)is a spell check for diversity and inclusion, designed to audit entire sites and identify opportunities to improve language choices. Developed using Go and Firebase. Some nice words about the project: https://www.alivewithideas.com/blog/what-does-the-folx-say/
+- Alphakit (<https://github.com/thecolngroup/alphakit>) is a framework for building algorithmic trading systems in the Go language, with the goal to teach sound trading system design and help folks learn Go with a practical outcome.
+- Alphasim (<https://github.com/thecolngroup/alphasim>) is a minimalist backtester in python that mirrors the quant workflow.
+- Hello Folx (<https://hellofolx.com>) is a spell check for diversity and inclusion, designed to audit entire sites and identify opportunities to improve language choices. Developed using Go and Firebase. Some nice words about the project: https://www.alivewithideas.com/blog/what-does-the-folx-say/
 - FRANKbot (<https://www.talktofrank.com>) is a Facebook Messenger bot tech demo for the UK Goverment drugs advice service with the goal to make help more easily accessible for young people.
 
 ## 🛠 Services
